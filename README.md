@@ -8,6 +8,7 @@
 - [01-streaming-output](lessons/01-streaming-output.md) - 流式输出：Agent 实时响应的秘密
 - [02-memory-system](lessons/02-memory-system.md) - 记忆系统：让 Agent 拥有长期记忆
 - [03-error-handling](lessons/03-error-handling.md) - 错误处理与恢复机制
+- [04-tool-results-processing](lessons/04-tool-results-processing.md) - 工具结果处理：Agent 如何理解工具的回答
 
 ### 进阶篇
 - (更新中...)
