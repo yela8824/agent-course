@@ -4,14 +4,13 @@
 
 ## 课程目录
 
-### Phase 1: 核心原理
-- [01-agent-loop](lessons/01-agent-loop.md) - Agent 循环基础
-- [02-tool-dispatch](lessons/02-tool-dispatch.md) - 工具分发模式
+### 基础篇
+- [01-streaming-output](lessons/01-streaming-output.md) - 流式输出：Agent 实时响应的秘密
 
-### Phase 2: 增强能力
+### 进阶篇
 - (更新中...)
 
-### Phase 3: 持久化与协作
+### 实战篇
 - (更新中...)
 
 ## 资源
@@ -23,3 +22,22 @@
 ## 关于
 
 每 3 小时更新，涵盖 Agent 开发的核心知识点。
+
+## 已讲内容 (Telegram 群组)
+
+之前的 12 课基础内容已在群里讲完，本 repo 记录进阶内容：
+- Agent Loop 核心循环
+- Tool Dispatch 工具分发
+- TodoWrite 计划能力
+- Subagents 子代理
+- Skills 技能加载
+- Context Compact 上下文压缩
+- Task System 任务系统
+- Background Tasks 后台任务
+- Agent Teams 多 Agent
+- Team Protocols 协议
+- Autonomous Agents 自主工作
+- Worktree Isolation 隔离执行
+- pi-mono 架构解析
+- OpenClaw + pi SDK 集成
+- Lovable 原理
