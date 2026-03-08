@@ -11,6 +11,7 @@
 - [04-tool-results-processing](lessons/04-tool-results-processing.md) - 工具结果处理：Agent 如何理解工具的回答
 - [05-model-routing](lessons/05-model-routing.md) - 模型路由：智能选择最优 LLM
 - [06-tool-schema-design](lessons/06-tool-schema-design.md) - 工具 Schema 设计：让 LLM 正确调用工具
+- [07-context-window-management](lessons/07-context-window-management.md) - Context Window 管理：在有限空间内高效工作
 
 ### 进阶篇
 - (更新中...)
