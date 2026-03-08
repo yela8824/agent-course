@@ -14,6 +14,7 @@
 - [07-context-window-management](lessons/07-context-window-management.md) - Context Window 管理：在有限空间内高效工作
 - [08-safety-guardrails](lessons/08-safety-guardrails.md) - Safety & Guardrails：让 Agent 有能力但不搞破坏
 - [09-prompt-engineering](lessons/09-prompt-engineering.md) - Prompt Engineering：系统提示词设计
+- [10-session-management](lessons/10-session-management.md) - Session Management：会话管理
 
 ### 进阶篇
 - (更新中...)
