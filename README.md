@@ -12,6 +12,7 @@
 - [05-model-routing](lessons/05-model-routing.md) - 模型路由：智能选择最优 LLM
 - [06-tool-schema-design](lessons/06-tool-schema-design.md) - 工具 Schema 设计：让 LLM 正确调用工具
 - [07-context-window-management](lessons/07-context-window-management.md) - Context Window 管理：在有限空间内高效工作
+- [08-safety-guardrails](lessons/08-safety-guardrails.md) - Safety & Guardrails：让 Agent 有能力但不搞破坏
 
 ### 进阶篇
 - (更新中...)
