@@ -20,6 +20,7 @@
 - [13-state-persistence](lessons/13-state-persistence.md) - State Persistence：状态持久化
 - [14-agent-testing](lessons/14-agent-testing.md) - Agent Testing：如何测试 AI Agent
 - [15-rate-limiting-backoff](lessons/15-rate-limiting-backoff.md) - Rate Limiting & Backoff：限流与退避策略
+- [16-human-in-the-loop](lessons/16-human-in-the-loop.md) - Human-in-the-Loop：人机协作模式
 
 ### 进阶篇
 - (更新中...)
