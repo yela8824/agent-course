@@ -30,6 +30,7 @@
 - [23-structured-output](lessons/23-structured-output.md) - Structured Output：结构化输出
 - [24-tool-policy-pipeline](lessons/24-tool-policy-pipeline.md) - Tool Policy Pipeline：工具策略管道
 - [25-mcp-protocol](lessons/25-mcp-protocol.md) - MCP (Model Context Protocol)：Agent 工具交互的标准化协议
+- [26-idempotency-retry](lessons/26-idempotency-retry.md) - Idempotency & Retry：幂等性与重试模式
 
 ### 进阶篇
 - (更新中...)
