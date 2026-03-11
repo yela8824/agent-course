@@ -31,6 +31,7 @@
 - [24-tool-policy-pipeline](lessons/24-tool-policy-pipeline.md) - Tool Policy Pipeline：工具策略管道
 - [25-mcp-protocol](lessons/25-mcp-protocol.md) - MCP (Model Context Protocol)：Agent 工具交互的标准化协议
 - [26-idempotency-retry](lessons/26-idempotency-retry.md) - Idempotency & Retry：幂等性与重试模式
+- [27-dynamic-tool-loading](lessons/27-dynamic-tool-loading.md) - Dynamic Tool Loading：动态工具加载
 
 ### 进阶篇
 - (更新中...)
