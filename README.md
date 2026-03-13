@@ -44,6 +44,7 @@
 - [37-long-running-tasks-checkpointing](lessons/37-long-running-tasks-checkpointing.md) - Long-Running Tasks & Checkpointing：长任务与断点续传
 - [38-agent-security-authentication](lessons/38-agent-security-authentication.md) - Agent Security & Authentication：Agent 安全与认证
 - [39-agent-evaluation-framework](lessons/39-agent-evaluation-framework.md) - Agent 评估框架（Evals）：让 Agent 质量可度量
+- [40-agent-fsm](lessons/40-agent-fsm.md) - Agent FSM：用有限状态机让 Agent 行为可预测
 
 ### 进阶篇
 - (更新中...)
