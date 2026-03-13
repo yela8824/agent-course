@@ -48,6 +48,7 @@
 
 ### 进阶篇
 - [41-tool-composition-patterns](lessons/41-tool-composition-patterns.md) - Tool Composition Patterns：工具组合模式，Pipeline/Fan-out/Reduce/条件分支/重试循环
+- [42-output-validation-self-correction](lessons/42-output-validation-self-correction.md) - Output Validation & Self-Correction：输出校验与自我纠错
 
 ### 实战篇
 - (更新中...)
