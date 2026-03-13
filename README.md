@@ -55,7 +55,7 @@
 - [44-prompt-injection-defense](lessons/44-prompt-injection-defense.md) - Prompt Injection 攻击与防御：保护 Agent 不被外部内容劫持
 
 ### 实战篇
-- (更新中...)
+- [45-sandbox-code-execution](lessons/45-sandbox-code-execution.md) - Agent Sandbox 代码执行：让 Agent 安全运行代码
 
 ## 资源
 
