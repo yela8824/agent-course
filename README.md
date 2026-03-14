@@ -62,6 +62,7 @@
 - [49-agent-to-agent-protocol](lessons/49-agent-to-agent-protocol.md) - Agent-to-Agent (A2A) 协议：让不同 Agent 框架互联互通
 - [50-context-distillation](lessons/50-context-distillation.md) - Context Distillation：上下文蒸馏，用 LLM 把长对话提炼成结构化知识
 - [51-agent-versioning-ab-testing](lessons/51-agent-versioning-ab-testing.md) - Agent Versioning & A/B Testing：行为版本管理与灰度测试，像部署代码一样部署 Agent 行为
+- [52-intent-recognition-routing](lessons/52-intent-recognition-routing.md) - Intent Recognition & Routing：意图识别与路由，让 Agent 听懂"你想干什么"并精准分发
 
 ## 资源
 
