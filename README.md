@@ -57,6 +57,7 @@
 ### 实战篇
 - [45-sandbox-code-execution](lessons/45-sandbox-code-execution.md) - Agent Sandbox 代码执行：让 Agent 安全运行代码
 - [46-production-deployment-scaling](lessons/46-production-deployment-scaling.md) - Agent 生产部署与水平扩容：从本地跑通到生产可用
+- [47-hot-reload-live-config](lessons/47-hot-reload-live-config.md) - Agent 热更新与动态配置：不重启就能更新 Agent 行为
 
 ## 资源
 
