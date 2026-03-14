@@ -59,6 +59,7 @@
 - [46-production-deployment-scaling](lessons/46-production-deployment-scaling.md) - Agent 生产部署与水平扩容：从本地跑通到生产可用
 - [47-hot-reload-live-config](lessons/47-hot-reload-live-config.md) - Agent 热更新与动态配置：不重启就能更新 Agent 行为
 - [48-multi-tenant-agent-architecture](lessons/48-multi-tenant-agent-architecture.md) - 多租户 Agent 架构：数据隔离、权限控制、资源公平调度
+- [49-agent-to-agent-protocol](lessons/49-agent-to-agent-protocol.md) - Agent-to-Agent (A2A) 协议：让不同 Agent 框架互联互通
 
 ## 资源
 
