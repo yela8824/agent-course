@@ -71,6 +71,7 @@
 - [58-event-sourcing-agent-state](lessons/58-event-sourcing-agent-state.md) - Event Sourcing for Agent State（事件溯源）：让 Agent 的每一步都可回溯、可重放、可审计
 - [59-agent-middleware-patterns](lessons/59-agent-middleware-patterns.md) - Agent Middleware Patterns（中间件模式）：给工具调用加装拦截器，统一管理日志/鉴权/限流/重试
 - [60-feature-flags-runtime-behavior](lessons/60-feature-flags-runtime-behavior.md) - Feature Flags & 动态行为开关：运行时控制 Agent 工具权限与行为，30秒内紧急关闭问题功能
+- [61-task-queue-priority-scheduling](lessons/61-task-queue-priority-scheduling.md) - Task Queue & Priority Scheduling：任务队列与优先级调度，让 Agent 在多任务环境中有条不紊地处理并发请求
 
 ## 资源
 
