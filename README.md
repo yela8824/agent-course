@@ -67,6 +67,7 @@
 - [54-semantic-caching](lessons/54-semantic-caching.md) - 语义缓存：用向量相似度降低 API 调用成本
 - [55-agent-persona-session-identity](lessons/55-agent-persona-session-identity.md) - Agent Persona & Session Identity：角色持久化与身份一致性，SOUL.md 机制与跨平台人格统一
 - [56-circuit-breaker-pattern](lessons/56-circuit-breaker-pattern.md) - Agent Circuit Breaker Pattern：熔断器模式，工具持续失败时的快速失败与优雅降级
+- [57-behavior-trees](lessons/57-behavior-trees.md) - Agent Behavior Trees（行为树）：比 FSM 更灵活、更可复用的 Agent 行为建模方式
 
 ## 资源
 
