@@ -69,6 +69,7 @@
 - [56-circuit-breaker-pattern](lessons/56-circuit-breaker-pattern.md) - Agent Circuit Breaker Pattern：熔断器模式，工具持续失败时的快速失败与优雅降级
 - [57-behavior-trees](lessons/57-behavior-trees.md) - Agent Behavior Trees（行为树）：比 FSM 更灵活、更可复用的 Agent 行为建模方式
 - [58-event-sourcing-agent-state](lessons/58-event-sourcing-agent-state.md) - Event Sourcing for Agent State（事件溯源）：让 Agent 的每一步都可回溯、可重放、可审计
+- [59-agent-middleware-patterns](lessons/59-agent-middleware-patterns.md) - Agent Middleware Patterns（中间件模式）：给工具调用加装拦截器，统一管理日志/鉴权/限流/重试
 
 ## 资源
 
