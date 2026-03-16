@@ -75,6 +75,7 @@
 - [62-conversational-state-machine](lessons/62-conversational-state-machine.md) - 对话状态机与多轮上下文管理：让 Agent 在复杂多轮对话中不迷路，支持任务嵌套、插队与恢复
 - [63-agent-swarm-intelligence](lessons/63-agent-swarm-intelligence.md) - Agent Swarm Intelligence（蜂群智能）：多个专业化小 Agent 协作涌现出比单一大 Agent 更强的能力
 - [64-time-aware-agents](lessons/64-time-aware-agents.md) - 时间感知 Agent（Time-Aware Agents）：让 LLM 跨越"时间盲"障碍，实现时区感知、截止时间规划与时机决策
+- [65-agent-workflow-dsl](lessons/65-agent-workflow-dsl.md) - Agent Workflow DSL（声明式工作流管道）：用 YAML/代码定义 Agent 执行流，实现自动并行、条件分支、可版本化的工作流
 
 ## 资源
 
