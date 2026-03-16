@@ -73,6 +73,7 @@
 - [60-feature-flags-runtime-behavior](lessons/60-feature-flags-runtime-behavior.md) - Feature Flags & 动态行为开关：运行时控制 Agent 工具权限与行为，30秒内紧急关闭问题功能
 - [61-task-queue-priority-scheduling](lessons/61-task-queue-priority-scheduling.md) - Task Queue & Priority Scheduling：任务队列与优先级调度，让 Agent 在多任务环境中有条不紊地处理并发请求
 - [62-conversational-state-machine](lessons/62-conversational-state-machine.md) - 对话状态机与多轮上下文管理：让 Agent 在复杂多轮对话中不迷路，支持任务嵌套、插队与恢复
+- [63-agent-swarm-intelligence](lessons/63-agent-swarm-intelligence.md) - Agent Swarm Intelligence（蜂群智能）：多个专业化小 Agent 协作涌现出比单一大 Agent 更强的能力
 
 ## 资源
 
