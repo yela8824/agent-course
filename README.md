@@ -87,6 +87,7 @@
 - [73-agent-self-healing](lessons/73-agent-self-healing.md) - Agent Self-Healing（Agent 自愈机制）：错误分类、自动诊断、修复动作注册、断点续传，让 Agent 遇错自愈而非遇错即停
 - [74-contract-testing-agents](lessons/74-contract-testing-agents.md) - Agent 契约测试（Contract Testing）：用 JSON Schema 契约保障 Agent、Tool、LLM 之间接口稳定，独立迭代不互相破坏
 - [75-agent-bootstrapping-self-initialization](lessons/75-agent-bootstrapping-self-initialization.md) - Agent Bootstrapping & Self-Initialization（Agent 自举与自初始化）：从 SOUL.md 到 MEMORY.md，系统化让 Agent 每次启动都"认识自己"
+- [76-structured-thinking-patterns](lessons/76-structured-thinking-patterns.md) - Structured Thinking Patterns（结构化思维模式）：CoT / ToT / GoT 三种推理架构，从线性思维链到树形探索到图状网状推理
 
 ## 资源
 
