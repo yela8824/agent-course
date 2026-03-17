@@ -88,6 +88,7 @@
 - [74-contract-testing-agents](lessons/74-contract-testing-agents.md) - Agent 契约测试（Contract Testing）：用 JSON Schema 契约保障 Agent、Tool、LLM 之间接口稳定，独立迭代不互相破坏
 - [75-agent-bootstrapping-self-initialization](lessons/75-agent-bootstrapping-self-initialization.md) - Agent Bootstrapping & Self-Initialization（Agent 自举与自初始化）：从 SOUL.md 到 MEMORY.md，系统化让 Agent 每次启动都"认识自己"
 - [76-structured-thinking-patterns](lessons/76-structured-thinking-patterns.md) - Structured Thinking Patterns（结构化思维模式）：CoT / ToT / GoT 三种推理架构，从线性思维链到树形探索到图状网状推理
+- [77-token-budget-management](lessons/77-token-budget-management.md) - Token Budget Management（Token 预算管理）：给 Agent 思考设预算，自适应分配 budget_tokens，在质量与成本间找最优平衡点
 
 ## 资源
 
