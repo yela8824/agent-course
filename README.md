@@ -104,6 +104,7 @@
 - [90-prompt-template-engine](lessons/90-prompt-template-engine.md) - Agent Prompt Template Engine（提示词模板引擎）：Prompt 是代码，变量插值/Fragment 复用/条件渲染/版本管理/单元测试，像工程化代码一样管理 Prompt
 - [91-multi-model-fallback-chain](lessons/91-multi-model-fallback-chain.md) - Agent 多模型回退链（Multi-Model Fallback Chain）：主模型挂了/限速/超预算自动切换，健康监控+冷却期+任务类型路由，用户无感知
 - [92-streaming-response-aggregation](lessons/92-streaming-response-aggregation.md) - Agent 流式响应聚合（Streaming Response Aggregation）：多 Sub-agent 并行流式输出的 Fan-In 聚合；优先级队列、取消传播、Partial Error 策略；用户实时看到进展而非等最慢的那个
+- [93-pii-masking-privacy-guards](lessons/93-pii-masking-privacy-guards.md) - Agent PII 脱敏与隐私护栏（PII Masking & Privacy Guards）：检测邮箱/手机/API Key 等敏感数据，工具结果注入 LLM 前清洗，日志敏感字段自动 REDACTED，Sub-agent 间数据最小化传递
 
 ## 资源
 
