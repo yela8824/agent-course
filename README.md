@@ -112,6 +112,7 @@
 - [98-plugin-architecture](lessons/98-plugin-architecture.md) - Agent 插件化架构（Plugin Architecture）：工具集动态扩展而非写死；ToolRegistry 注册表、文件系统扫描动态加载、生命周期 hooks、权限沙箱隔离、插件间事件总线通信；OpenClaw Skills 即此模式的落地实现
 - [99-nl2sql-nl2api](lessons/99-nl2sql-nl2api.md) - Agent NL2SQL & NL2API（自然语言转结构化查询）：Schema 注入策略、SQL 安全白名单验证、错误自修复循环（成功率 75%→95%）、Few-Shot 提升准确率、pi-mono 工具实现参考
 - [100-automatic-prompt-optimization](lessons/100-automatic-prompt-optimization.md) - 🎉 Agent 自动提示词优化（Automatic Prompt Optimization）：Few-Shot 自动筛选 / 指令自动改写（Meta-LLM）/ A/B 测试 + Thompson Sampling 晋级，让 Agent 基于执行反馈持续自我进化
+- [101-conversation-repair-clarification](lessons/101-conversation-repair-clarification.md) - Agent 对话修复与澄清（Conversation Repair & Clarification）：歧义检测 + 置信度驱动执行策略，一次只问最关键的问题，澄清限流防止烦死用户
 
 ## 资源
 
