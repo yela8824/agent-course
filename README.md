@@ -108,6 +108,7 @@
 - [94-llm-api-gateway-pattern](lessons/94-llm-api-gateway-pattern.md) - Agent LLM API 网关模式（LLM API Gateway Pattern）：集中代理所有 LLM 调用，统一处理限流/成本追踪/语义缓存/多 Provider 路由/密钥集中管理，业务 Agent 零感知底层模型
 - [95-query-rewriting-intent-augmentation](lessons/95-query-rewriting-intent-augmentation.md) - Agent 查询改写与意图增强（Query Rewriting & Intent Augmentation）：用户说的不等于用户想的；代词解析/意图扩展/HyDE/多路展开，执行前先把模糊输入翻译成精确可执行的查询
 - [96-request-deduplication-coalescing](lessons/96-request-deduplication-coalescing.md) - Agent 工具调用去重与请求合并（Request Deduplication & Coalescing）：多 Sub-agent 并发同一请求时去重共享 Promise，批量请求用 DataLoader 合并成一次 IN 查询，透明中间件无需改业务逻辑
+- [97-adaptive-timeout-hedged-requests](lessons/97-adaptive-timeout-hedged-requests.md) - Agent 自适应超时与对冲请求（Adaptive Timeout & Hedged Requests）：基于 P95 历史延迟动态计算超时，P50 后发对冲请求取最快响应，消灭 P99 长尾延迟，延迟降低 40-60%
 
 ## 资源
 
