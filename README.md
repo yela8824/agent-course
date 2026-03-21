@@ -114,6 +114,7 @@
 - [100-automatic-prompt-optimization](lessons/100-automatic-prompt-optimization.md) - 🎉 Agent 自动提示词优化（Automatic Prompt Optimization）：Few-Shot 自动筛选 / 指令自动改写（Meta-LLM）/ A/B 测试 + Thompson Sampling 晋级，让 Agent 基于执行反馈持续自我进化
 - [101-conversation-repair-clarification](lessons/101-conversation-repair-clarification.md) - Agent 对话修复与澄清（Conversation Repair & Clarification）：歧义检测 + 置信度驱动执行策略，一次只问最关键的问题，澄清限流防止烦死用户
 - [102-tool-result-transformation-pipeline](lessons/102-tool-result-transformation-pipeline.md) - Agent 工具结果转换管道（Tool Result Transformation Pipeline）：工具原始输出在注入 LLM 前经过标准化/截断/脱敏/增强/错误包装管道，纯函数设计、按工具类型定制配置，消灭"脏数据入 LLM"问题
+- [103-tool-call-hallucination-detection](lessons/103-tool-call-hallucination-detection.md) - Agent 工具调用幻觉检测与修复（Tool Call Hallucination Detection & Recovery）：拦截层+诊断+修复三层防御，自动修复类型错误/多余参数，不可修复的结构化反馈给 LLM 重试，把 throw 变成 tool_result
 
 ## 资源
 
