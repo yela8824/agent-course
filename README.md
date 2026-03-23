@@ -133,6 +133,7 @@
 - [119-multi-modal-output-rich-media](lessons/119-multi-modal-output-rich-media.md) - Agent 多模态输出与富媒体响应（Multi-Modal Output & Rich Media Response）：输出类型注册表 + 平台能力矩阵，TTS/图片/文件/Canvas UI 工具设计，AUTO_DELIVER + NO_REPLY 模式，渐进式多模态交付，OpenClaw tts 工具实战
 - [120-tool-least-privilege](lessons/120-tool-least-privilege.md) - Agent 工具权限最小化原则（Tool Least Privilege）：三维权限模型（角色/会话/任务），动态工具过滤器，临时权限升级 + 人工审批 + TTL 自动过期，风险等级分级，pi-mono Agent Loop 实战
 - [121-confidence-aware-routing-multi-candidate](lessons/121-confidence-aware-routing-multi-candidate.md) - Agent 置信度感知路由与多候选评估（Confidence-Aware Routing & Multi-Candidate Evaluation）：意图置信度打分、三档阈值路由（直接执行/候选确认/精准澄清）、置信度校准、OpenClaw 内联按钮集成
+- [122-local-llm-hybrid-routing](lessons/122-local-llm-hybrid-routing.md) - Agent 本地大模型集成与混合路由（Local LLM Integration & Hybrid Routing）：Ollama + OpenAI SDK 兼容接入、三维路由决策（PII/预算/复杂度）、本地-云端成本对比、统一调用接口，节省 80-90% API 成本
 
 ## 资源
 
