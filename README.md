@@ -136,6 +136,7 @@
 - [122-local-llm-hybrid-routing](lessons/122-local-llm-hybrid-routing.md) - Agent 本地大模型集成与混合路由（Local LLM Integration & Hybrid Routing）：Ollama + OpenAI SDK 兼容接入、三维路由决策（PII/预算/复杂度）、本地-云端成本对比、统一调用接口，节省 80-90% API 成本
 - [123-realtime-monitoring-alerting](lessons/123-realtime-monitoring-alerting.md) - Agent 实时监控与告警（Real-time Monitoring & Alerting）：四大黄金信号、Prometheus 指标注册表、工具中间件自动埋点、告警引擎（冷却期+分级）、Telegram 告警渠道、Cron 定时巡检
 - [124-infinite-loop-detection-escape](lessons/124-infinite-loop-detection-escape.md) - Agent 无限循环检测与逃出机制（Infinite Loop Detection & Escape）：哈希去重/LoopBudget 硬上限/语义相似度/调用图环检测/三层逃出策略（摘要/升级/终止）、Cron 任务循环保护
+- [125-command-pattern-undo-redo](lessons/125-command-pattern-undo-redo.md) - Agent 命令模式与撤销机制（Command Pattern & Undo/Redo）：工具调用封装为 Command 对象、undo/redo 双栈、宏命令事务回滚、不可逆操作标记、与 Agent 工具分发层集成
 
 ## 资源
 
