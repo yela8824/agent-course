@@ -129,6 +129,7 @@
 - [115-tool-call-audit-compliance-logging](lessons/115-tool-call-audit-compliance-logging.md) - Agent 工具调用审计与合规日志（Tool Call Audit & Compliance Logging）：Append-Only 审计记录、哈希链防篡改、意图捕获、权限快照、参数脱敏、合规报告生成、数据保留策略
 - [116-async-tool-execution-polling](lessons/116-async-tool-execution-polling.md) - Agent 异步工具执行与结果轮询（Async Tool Execution & Result Polling）：慢工具不阻塞 Agent Loop，Job ID + 指数退避轮询 + Redis 持久化，让 Agent 并发提交多任务、空档做其他事
 - [117-graceful-shutdown-task-migration](lessons/117-graceful-shutdown-task-migration.md) - Agent 优雅关机与任务迁移（Graceful Shutdown & Task Migration）：SIGTERM 三步协议（停止接单→drain→迁移），AbortController 取消传播，Redis checkpoint + re-queue，K8s terminationGracePeriod 配置实战
+- [118-cost-attribution-usage-quotas](lessons/118-cost-attribution-usage-quotas.md) - Agent 成本归因与用量配额（Cost Attribution & Usage Quotas）：按用户/功能/模型多维度追踪 Token 成本，Redis 累计配额，超限拒绝 + 阈值告警，Cron 定时报表，pi-mono ModelRouter hook 实战
 
 ## 资源
 
