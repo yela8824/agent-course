@@ -137,6 +137,7 @@
 - [123-realtime-monitoring-alerting](lessons/123-realtime-monitoring-alerting.md) - Agent 实时监控与告警（Real-time Monitoring & Alerting）：四大黄金信号、Prometheus 指标注册表、工具中间件自动埋点、告警引擎（冷却期+分级）、Telegram 告警渠道、Cron 定时巡检
 - [124-infinite-loop-detection-escape](lessons/124-infinite-loop-detection-escape.md) - Agent 无限循环检测与逃出机制（Infinite Loop Detection & Escape）：哈希去重/LoopBudget 硬上限/语义相似度/调用图环检测/三层逃出策略（摘要/升级/终止）、Cron 任务循环保护
 - [125-command-pattern-undo-redo](lessons/125-command-pattern-undo-redo.md) - Agent 命令模式与撤销机制（Command Pattern & Undo/Redo）：工具调用封装为 Command 对象、undo/redo 双栈、宏命令事务回滚、不可逆操作标记、与 Agent 工具分发层集成
+- [126-declarative-tool-annotations](lessons/126-declarative-tool-annotations.md) - Agent 声明式工具注解（Declarative Tool Annotations & Decorator Pattern）：用 TypeScript 装饰器声明权限/缓存/重试/超时/限流元数据，运行时自动应用横切关注，从注解自动生成 LLM Schema，消灭样板代码
 
 ## 资源
 
