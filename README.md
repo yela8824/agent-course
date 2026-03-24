@@ -141,6 +141,7 @@
 - [127-tool-parameter-auto-completion](lessons/127-tool-parameter-auto-completion.md) - Agent 工具参数自动补全与上下文推断（Tool Parameter Auto-Completion & Contextual Inference）：从对话历史/工具调用记录/用户偏好三层推断缺失参数，置信度打分，透明提示，只问最关键的一个
 - [128-protocol-adapter-pattern](lessons/128-protocol-adapter-pattern.md) - Agent 协议适配器模式（Protocol Adapter Pattern）：统一 Anthropic/OpenAI/Gemini 消息格式，Agent 代码完全 Provider 无关，改一行配置切换底层模型，Adapter 无状态双向翻译
 - [129-conversation-summary-memory-sync](lessons/129-conversation-summary-memory-sync.md) - Agent 对话摘要与长期记忆同步（Conversation Summary & Long-Term Memory Sync）：三层记忆模型（工作/情景/语义）、LLM 驱动摘要提取、Cron 定期蒸馏、MEMORY.md 更新策略
+- [130-lazy-context-loading](lessons/130-lazy-context-loading.md) - Agent 懒加载上下文与按需数据注入（Lazy Context Loading & On-Demand Data Injection）：上下文注册表 + 目录模式、fetch_context 工具按需拉取、分层 TTL 缓存、预测性预加载、平均节省 70% token 消耗；OpenClaw Skills 即此模式的最佳实践
 
 ## 资源
 
