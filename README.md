@@ -145,6 +145,7 @@
 - [131-multi-hop-reasoning-tool-chain](lessons/131-multi-hop-reasoning-tool-chain.md) - Agent 多跳推理与工具链编排（Multi-Hop Reasoning & Tool Chain Orchestration）：线性链/扇出并发/条件分支三种模式、跳数上限防护、中间结果压缩、Promise.all 并发化同级工具调用
 - [132-structured-concurrency](lessons/132-structured-concurrency.md) - Agent 结构化并发（Structured Concurrency）：TaskScope 任务树生命周期管理、AbortSignal 取消传播、Fail-Fast/Collect-All/Race 三种策略、零资源泄漏保证、与裸 Promise.all 的工程化升级
 - [133-tool-call-budget-control](lessons/133-tool-call-budget-control.md) - Agent 工具调用预算控制（Tool Call Budget Control）：次数/成本/时间三维预算、四级状态机（ok→warning→throttle→exceeded）、工具中间件透明注入、tools=[] 强制收敛、自适应预算估算
+- [134-tool-dry-run-mode](lessons/134-tool-dry-run-mode.md) - Agent 工具调用 Dry-Run 模式（Tool Call Dry-Run Mode）：执行前先演练、危险操作审批、DryRunToolRegistry + 两阶段执行、contextvar 线程安全控制、Telegram inline 审批集成
 
 ## 资源
 
